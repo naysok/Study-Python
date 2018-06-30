@@ -1,4 +1,7 @@
-# tkinter  
+# tkinter module  
+
+[https://docs.python.jp/3/library/tkinter.html](https://docs.python.jp/3/library/tkinter.html)  
+
 
 ### 01-tkinter.py  
 
