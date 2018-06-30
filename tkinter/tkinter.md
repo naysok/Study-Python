@@ -3,6 +3,15 @@
 [https://docs.python.jp/3/library/tkinter.html](https://docs.python.jp/3/library/tkinter.html)  
 
 
+```python
+
+import tkinter as tk
+
+```
+
+
+---  
+
 ### 01-tkinter.py  
 
 label  

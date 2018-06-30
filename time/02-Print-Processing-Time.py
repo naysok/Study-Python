@@ -23,7 +23,6 @@ for i in range(1000):
 
 time2 = time.time()
 
-#
 
 elapsed_time = time2 - time1
 
