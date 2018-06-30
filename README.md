@@ -12,9 +12,14 @@
 
 - python-osc  
 
-- time // time module  
+- tkinter // tkinter module // Standard-Library  
+
+
+- time // time module // Standard-Library  
   - 01-Print-Current-Time.py  
   - 02-Print-Processing-Time.py  
+
+
 
 
 ---  
