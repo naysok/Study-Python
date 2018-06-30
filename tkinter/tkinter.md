@@ -1,12 +1,12 @@
-# Tkinter  
+# tkinter  
 
-### 01-Tkinter.py  
+### 01-tkinter.py  
 
 label  
 bottun  
 command  
 
-![photo](Tkinter/photo/01-Tkinter.png)  
+![photo](photo/01-tkinter.png)  
 
 
 ---  

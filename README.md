@@ -1,4 +1,4 @@
-# Study-Python
+# Study-Python  
 
 
 
@@ -13,9 +13,13 @@
 - python-osc  
 
 - tkinter // tkinter module // Standard-Library  
-
+  - tkinter.md[]()  
+  - 01-tkinter.py  
+  - HelloWorld-Button.py  
+  - HelloWorld.py  n
 
 - time // time module // Standard-Library  
+  - time.md[]()  
   - 01-Print-Current-Time.py  
   - 02-Print-Processing-Time.py  
 
