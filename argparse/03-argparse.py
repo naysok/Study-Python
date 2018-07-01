@@ -8,13 +8,18 @@ parser.add_argument('keyPressed_Data')
 
 args = parser.parse_args()
 
-print('Key preessed "', args.keyPressed_Data, '"')
+print('Key preessed :', args.keyPressed_Data)
 
 
 '''
 
 $ python3 00.py g
-Key preessed " g "
+Key preessed : g
+
+
+$ python3 02-argparse.py ggg
+Key preessed : ggg
+
 
 $ python3 00.py --h
 usage: 00.py [-h] keyPressed_Data

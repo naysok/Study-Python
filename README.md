@@ -11,18 +11,18 @@
 - pass.py // pass  
 
 - argparse // argparse module // Standard-Library  
-  - argparse.md（[https://github.com/naysok/Study-Python/blob/master/argparse/argparse.md](https://github.com/naysok/Study-Python/blob/master/argparse/argparse.md)）  
+  - [argparse.md](https://github.com/naysok/Study-Python/blob/master/argparse/argparse.md)  
 
 - python-osc  
-  - python-osc.md（[https://github.com/naysok/Study-Python/blob/master/python-osc/python-osc.md](https://github.com/naysok/Study-Python/blob/master/python-osc/python-osc.md)）  
+  - [python-osc.md](https://github.com/naysok/Study-Python/blob/master/python-osc/python-osc.md)  
 
 - time // time module // Standard-Library  
-  - time.md（[https://github.com/naysok/Study-Python/blob/master/time/time.md](https://github.com/naysok/Study-Python/blob/master/time/time.md)）  
+  - [time.md](https://github.com/naysok/Study-Python/blob/master/time/time.md)  
   - 01-Print-Current-Time.py  
   - 02-Print-Processing-Time.py  
 
 - tkinter // tkinter module // Standard-Library  
-  - tkinter.md（[https://github.com/naysok/Study-Python/blob/master/tkinter/tkinter.md](https://github.com/naysok/Study-Python/blob/master/tkinter/tkinter.md)）  
+  - [tkinter.md](https://github.com/naysok/Study-Python/blob/master/tkinter/tkinter.md)  
   - 01-tkinter.py  
   - HelloWorld-Button.py  
   - HelloWorld.py  

@@ -2,9 +2,32 @@
 
 [https://docs.python.jp/3/library/argparse.html](https://docs.python.jp/3/library/argparse.html)  
 
-argparse モジュールは、ユーザーフレンドリなコマンドラインインターフェースの作成を簡単にします。  
+argparse モジュールは、ユーザーフレンドリな CUI を簡単に作成できる。  
+また、エラーメッセージを出す。  
 
+---  
 
+- 01-argparse.py  
+  ```
+  $ python3 01-argparse.py 10 20 30
+  30
+
+  $ python3 01-argparse.py 10 20 30 --sum
+  60
+  ```
+
+- 02-argparse.py  
+  ```
+  $ python3 00.py g
+  Key preessed : g
+
+  $ python3 02-argparse.py ggg
+  Key preessed : ggg
+  ```
+
+- 02-argparse.py  
+  ```
+  ```
 
 
 
@@ -12,7 +35,6 @@ argparse モジュールは、ユーザーフレンドリなコマンドライ�
 
 ### reference  
 
-[https://docs.python.jp/3/library/argparse.html](https://docs.python.jp/3/library/argparse.html)  
 
 [https://www.sejuku.net/blog/23647](https://www.sejuku.net/blog/23647)  
 
