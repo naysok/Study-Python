@@ -6,15 +6,25 @@
 
 - hello.py  
 
+- input.py  
+
+- int.py // Cast // str -> float -> int  
+
 - main.py  
 
 - pass.py // pass  
+
+- type.py // type()
 
 - argparse // argparse module // Standard-Library  
   - [argparse.md](https://github.com/naysok/Study-Python/blob/master/argparse/argparse.md)  
 
 - python-osc  
   - [python-osc.md](https://github.com/naysok/Study-Python/blob/master/python-osc/python-osc.md)  
+
+- socket  
+  - [socket.md](https://github.com/naysok/Study-Python/blob/master/socket/socket.md)  
+
 
 - time // time module // Standard-Library  
   - [time.md](https://github.com/naysok/Study-Python/blob/master/time/time.md)  
