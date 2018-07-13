@@ -6,10 +6,12 @@ def main():
     port = 4321
     bufsize = 4096
 
+    # オブジェクトの作成
     sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
     with contextlib.closing(sock):
 
+        # サーバ接続
         sock.connect((host, port))
 
         #sock.send(b"Hello World!!")
