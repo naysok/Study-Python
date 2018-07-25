@@ -2,13 +2,17 @@ import tkinter as tk
 import time
 
 
-def pushed():
-    print("Hello!!")
+def pushed_time():
 
     # Print Current Time
     now = time.ctime()
     cnvtime = time.strptime(now)
-    print (time.strftime("%Y/%m/%d %H:%M", cnvtime))
+    print("Current Time is", time.strftime("%Y/%m/%d %H:%M", cnvtime))
+
+
+
+def win_exit():
+    root.destroy()
 
 
 
@@ -16,24 +20,24 @@ def pushed():
 root = tk.Tk()
 
 # Window Name
-root.title("Tkinter-Test")
+root.title("ここにタイトルいれる")
 
 # Window Size
 root.geometry("480x480")
 
 
-# text
-# add label
-label1 = tk.Label(root, text= "Hello, World!!")
-# preview
-label1.grid()
-
-label2 = tk.Label(None, text='Hello Python, Hello World!!', font=('Times', '18'))
-label2.grid()
 
 
-# button
-button1 = tk.Button(root, text="Hello", command =pushed)
-button1.grid()
+#Label : text
+label2 = tk.Label(root, text='\nHello tkinter!, Hello python!!\n\n', font=('Times', '18'))
+label2.pack()
+
+
+button_exit = tk.Button(root, text = "exit", command = win_exit)
+button_exit.pack()
+
+
+
+
 
 root.mainloop()

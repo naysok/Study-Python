@@ -12,11 +12,16 @@ import tkinter as tk
 
 ---  
 
+### 00.py
+
 ### 01-tkinter.py  
 
 label  
 bottun  
 command  
+def  
+root.destroy  
+frame  
 
 ![photo](photo/01-tkinter.png)  
 
