@@ -4,7 +4,7 @@
 
 ### index  
 
-- hello.py  
+- format.py  
 
 - input.py  
 
@@ -15,6 +15,8 @@
 - pass.py // pass  
 
 - type.py // type()
+
+---  
 
 - argparse // argparse module // Standard-Library  
   - [argparse.md](https://github.com/naysok/Study-Python/blob/master/argparse/argparse.md)  
