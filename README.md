@@ -6,6 +6,8 @@
 
 - format.py  
 
+- global.py  
+
 - input.py  
 
 - int.py // Cast // str -> float -> int  
