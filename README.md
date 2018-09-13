@@ -16,6 +16,8 @@
 
 - pass.py // pass  
 
+- random.py // import random
+
 - type.py // type()
 
 ---  
