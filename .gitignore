@@ -1,3 +1,5 @@
 .DS_Store
 
-python-osc/src-python-osc/
+/python-osc/src-python-osc/
+
+/noise/examples/
