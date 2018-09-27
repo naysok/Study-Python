@@ -31,6 +31,9 @@
 - python-osc  
   - [python-osc.md](https://github.com/naysok/Study-Python/blob/master/python-osc/python-osc.md)  
 
+- schedule  
+  [schedule.md](https://github.com/naysok/Study-Python/blob/master/schedule/schedule.md)
+
 - socket  
   - [socket.md](https://github.com/naysok/Study-Python/blob/master/socket/socket.md)  
 
