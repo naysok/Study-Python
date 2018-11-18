@@ -28,11 +28,14 @@
 - command_line_argument // コマンドライン引数のテストコード  
   - [command_line_argument.md](https://github.com/naysok/Study-Python/blob/master/command_line_argument/command_line_argument.md)  
 
+- gh-python-component-memo // gh で python コンポーネントをつかったときののメモ  
+  - [https://github.com/naysok/Study-Python/blob/master/gh-python-component-memo/gh-python-component-memo.md](https://github.com/naysok/Study-Python/blob/master/gh-python-component-memo/gh-python-component-memo.md)   
+
 - python-osc  
   - [python-osc.md](https://github.com/naysok/Study-Python/blob/master/python-osc/python-osc.md)  
 
 - schedule  
-  [schedule.md](https://github.com/naysok/Study-Python/blob/master/schedule/schedule.md)
+  - [schedule.md](https://github.com/naysok/Study-Python/blob/master/schedule/schedule.md)
 
 - socket  
   - [socket.md](https://github.com/naysok/Study-Python/blob/master/socket/socket.md)  
