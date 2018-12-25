@@ -4,6 +4,10 @@
 
 ### index  
 
+- Remap.py  
+  - 数値範囲を別の範囲に変換し、比率を維持する
+ （[https://code.i-harness.com/ja/q/e2d4f](https://code.i-harness.com/ja/q/e2d4f)）
+
 - format.py  
 
 - global.py  
