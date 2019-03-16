@@ -33,7 +33,10 @@
   - [command_line_argument.md](https://github.com/naysok/Study-Python/blob/master/command_line_argument/command_line_argument.md)  
 
 - gh-python-component-memo // gh で python コンポーネントをつかったときののメモ  
-  - [https://github.com/naysok/Study-Python/blob/master/gh-python-component-memo/gh-python-component-memo.md](https://github.com/naysok/Study-Python/blob/master/gh-python-component-memo/gh-python-component-memo.md)   
+  - [gh-python-component-memo.md](https://github.com/naysok/Study-Python/blob/master/gh-python-component-memo/gh-python-component-memo.md)   
+
+- os  
+  - [os.md](https://github.com/naysok/Study-Python/blob/master/os/os.md)  
 
 - python-osc  
   - [python-osc.md](https://github.com/naysok/Study-Python/blob/master/python-osc/python-osc.md)  
